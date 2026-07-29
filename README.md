@@ -44,7 +44,29 @@ Classes:
 
 The model was trained to classify images into three classes with good accuracy after preprocessing and data augmentation.
 
+
+### CNN Model
+
+#### Accuracy & Loss
+
+![CNN Accuracy & Loss](images/CNN_Accuracy_loss.png)
+
+#### Confusion Matrix
+
+![CNN Confusion Matrix](images/CNN_confusion_matrix.png)
+
 ---
+
+### MobileNetV2 Model
+
+#### Accuracy & Loss
+
+![MobileNetV2 Accuracy & Loss](images/MobileNetV2_accuracy_loss.png)
+
+#### Confusion Matrix
+
+![MobileNetV2 Confusion Matrix](images/MobileNetV2_confusion_matrix.png)
+
 
 ## Author
 
